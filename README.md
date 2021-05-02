@@ -1,5 +1,5 @@
 # Web-Scrapper
-Library to Scrape Web Pages From Travel Website
+Scrapes Web Page data From Travel Website. A NodeJs Project.
 
 It fetches travel insurance data from [https://www.circlecover.com/]() and saves them in a CSV file.
 

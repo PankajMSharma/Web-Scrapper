@@ -13,7 +13,7 @@ It fetches travel insurance data from [https://www.circlecover.com](https://www.
 5.  Git
 
 # Setup
-1.  Install NodeJS from [https://nodejs.org/en/download/]().
+1.  Install NodeJS from [https://nodejs.org/en/download/](https://nodejs.org/en/download).
     NPM will be installed with it as it comes with NodeJS setup.
 2.  Clone this project using `gt clone https://github.com/PankajMSharma/Web-Scrapper.git`.
 3.  Inside `Web-Scrapper` folder run command `npm i` on git bash or cmd.

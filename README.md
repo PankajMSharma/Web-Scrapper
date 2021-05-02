@@ -3,6 +3,8 @@ Library to Scrape Web Pages From Travel Website
 
 It fetches travel insurance data from [https://www.circlecover.com/]() and saves them in a CSV file.
 
+# STATUS - DEVELOPMENT COMPLETE
+
 # Technologies Used:-
 1.  Node.JS (8.11.3)
 2.  Selenium

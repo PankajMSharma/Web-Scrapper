@@ -1,0 +1,30 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "description": "Web-scapper",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node ./Project/TravelInsurance/runner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PankajMSharma/Web-Scrapper.git"
+  },
+  "keywords": [
+    "web-scrapper",
+    "nodejs",
+    "selinium"
+  ],
+  "author": "Pankaj Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PankajMSharma/Web-Scrapper/issues"
+  },
+  "homepage": "https://github.com/PankajMSharma/Web-Scrapper#readme",
+  "dependencies": {
+    "chromedriver": "^90.0.0",
+    "fs": "0.0.1-security",
+    "selenium-webdriver": "^4.0.0-beta.3"
+  }
+}
